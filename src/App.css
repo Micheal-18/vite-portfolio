@@ -1,0 +1,15 @@
+.app-layout {
+  display: flex;
+}
+
+.main-content {
+  margin-left: 220px;
+  flex: 1;
+}
+
+.content-area {
+  padding: 80px 20px 20px 20px; /* 80px to clear navbar height */
+  background-color: whitesmoke;
+  min-height: 100vh;
+}
+
